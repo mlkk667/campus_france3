@@ -2,7 +2,7 @@
 
 Bienvenue sur l'espace centralisé de mon dossier de candidature. Ce dépôt regroupe l'ensemble des pièces justificatives et académiques structurées pour faciliter l'évaluation du dossier par le comité de sélection.
 
----
+--
 
 ## 📌 Menu Principal
 
