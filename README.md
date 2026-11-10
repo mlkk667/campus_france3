@@ -10,7 +10,7 @@ Sélectionnez une section ci-dessous ou faites défiler pour consulter les docum
 
 *   🧠 **[01. Mémoire](./01_memoire/preprojet.md)**
     *   *Description :* Projet de recherche, problématique et note d'intention.
-*   🎨 **[02. Portfolio](./02_portfolio/portfolio.md)**
+*   🎨 **[02. Portfolio](./02_portfolio/index.md)**
     *   *Description :* Présentation de mes réalisations, projets et compétences techniques.
 *   🎓 **[03. Maquette Académique (L1 à Diplôme)](./03_parcours_academique/parcours_academique.md)**
     *   *Description :* Programmes détaillés des formations suivies, relevés de notes et progression académique.
