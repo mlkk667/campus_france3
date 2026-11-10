@@ -1,29 +1,29 @@
 # 📂 Dossier de Candidature Master - Campus France
 
-Bienvenue sur l'espace centralisé de mon dossier de candidature pour le Master. Ce dépôt regroupe l'ensemble des pièces justificatives et académiques structurées pour faciliter l'évaluation du dossier.
+Bienvenue sur l'espace centralisé de mon dossier de candidature. Ce dépôt regroupe l'ensemble des pièces justificatives et académiques structurées pour faciliter l'évaluation du dossier par le comité de sélection.
 
 ---
 
 ## 📌 Menu Principal
 
-Sélectionnez une section ci-dessous pour accéder aux documents correspondants :
+Sélectionnez une section ci-dessous ou faites défiler pour consulter les documents :
 
-*   🧠 **[01. Projet de Mémoire](./01_memoire/)**
-    *   *Description :* Note d'intention, problématique, objectifs et méthodologie du projet de recherche.
-*   🎨 **[02. Portfolio & Réalisations](./02_portfolio/)**
-    *   *Description :* Présentation des projets, compétences techniques et travaux pratiques réalisés.
-*   🎓 **[03. Parcours Académique (L1 à Diplôme)](./03_parcours_academique/)**
-    *   *Description :* Programmes détaillés des formations suivies, relevés de notes et progression de la Licence 1 à la Licence 3.
+*   🧠 **[01. Mémoire](./01_memoire/)**
+    *   *Description :* Projet de recherche, problématique et note d'intention.
+*   🎨 **[02. Portfolio](./02_portfolio/)**
+    *   *Description :* Présentation de mes réalisations, projets et compétences techniques.
+*   🎓 **[03. Maquette Académique (L1 à Diplôme)](./03_parcours_academique/)**
+    *   *Description :* Programmes détaillés des formations suivies, relevés de notes et progression académique.
 
 ---
 
-## 🧭 Navigation rapide
+## 🧭 Navigation Rapide
 
-| Section | Dossier associé | Statut |
+| Section | Dossier associé | Statut du contenu |
 | :--- | :--- | :--- |
-| **Mémoire** | `01_memoire/` | 📄 Disponible |
-| **Portfolio** | `02_portfolio/` | 🎨 Disponible |
-| **Parcours L1 ➔ L3** | `03_parcours_academique/` | 📚 Disponible |
+| **Mémoire** | `01_memoire/` | 📄 Prêt pour insertion |
+| **Portfolio** | `02_portfolio/` | 🎨 Prêt pour insertion |
+| **Maquette Académique** | `03_parcours_academique/` | 📚 Prêt pour insertion |
 
 ---
 *Candidature académique – Année 2026-2027*
